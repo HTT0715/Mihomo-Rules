@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gspe1-ssl.ls.apple.com",
+        "entsrv-uk.vodafone.com",
+        "vuk-gto.prod.ondemandconnectivity.com",
+        "ee.co.uk"
+      ],
+      "domain_keyword": [
+        "mcc234"
+      ],
+      "domain":[
+        "vfgb.idemia.io"
+      ],
+      "ip_cidr": [
+        "88.82.0.0/19",
+        "148.252.160.0/19", 
+        "46.68.0.0/17",
+        "87.194.0.0/16",
+        "31.94.0.0/16"
+      ]
+    }
+  ]
+}
